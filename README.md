@@ -47,7 +47,7 @@ O objetivo é ter um espaço organizado para estudo contínuo de SQL.
 pdfs/          → PDFs com aulas e desafios  
 solutions/     → Arquivos .sql com minhas resoluções  
 datasets/      → Arquivos CSV ou SQL usados nos exercícios  
-README.md      → Você está aqui  
+README.md
 ```
 
 ---
@@ -57,7 +57,6 @@ README.md      → Você está aqui
 * PostgreSQL
 * MySQL
 * SQLite
-* SQL Server (quando necessário)
 
 ---
 
